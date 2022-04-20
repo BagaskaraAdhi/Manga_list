@@ -1,4 +1,4 @@
-# hello_world
+# Manga_list
 
 A new Flutter project.
 
